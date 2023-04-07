@@ -1,0 +1,4 @@
+oss:
+    endpoint: http://192.168.10.61:9029
+    accessKey: minioadmin
+    secretKey: minioadmin
